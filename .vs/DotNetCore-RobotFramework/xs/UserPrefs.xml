@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DC930352-9C07-4655-A50A-BF891A05CCFB}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.DotNetCore__RobotFrameWork.Communicate.GenerateLib PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tests/DotNetCore_RobotFrameWork.Communicate.WebApp.Tests/KeyWordsTest.cs">
+    <Files>
+      <File FileName="tests/DotNetCore_RobotFrameWork.Communicate.WebApp.Tests/KeyWordsTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetCore-RobotFramework" expanded="True">
+            <Node name="src" expanded="True" />
+            <Node name="tests" expanded="True">
+              <Node name="DotNetCore_RobotFrameWork.Communicate.WebApp.Tests" expanded="True">
+                <Node name="KeyWordsTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
